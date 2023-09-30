@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.0.86 (2023-09-30)
+
+## What's Changed
+* fix(script): added percent before list of emails by @StanGirard in https://github.com/StanGirard/quivr/pull/1284
+* feat: improve app ux by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1281
+* test: add e2e for crawling by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1288
+* feat(user_settings): increased by @StanGirard in https://github.com/StanGirard/quivr/pull/1291
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.85...v0.0.86
+
 ## 0.0.84 (2023-09-28)
 
 ## What's Changed
